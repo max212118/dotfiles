@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = maxence.trnd@gmail.com
+	name = maxence tarnaud
